@@ -2,8 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Samuel Elias. Eu sou um estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, tenho 21 anos e sou de São Paulo. Já fiz alguns cursos na área de informática e desde então, não parei mais de explorar esse universo da tecnologia.
-Gosto de aprender coisas novas, resolver problemas e criar soluções que realmente façam diferença. Aqui no GitHub você vai acompanhar minha trajetória como desenvolvedor. Estou começando a compartilhar meus estudos, projetos e aprendizados, e pretendo usar esse espaço para mostrar minha evolução na área de tecnologia.
+Me chamo Samuel Elias. Sou um estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, tenho 21 anos e sou de São Paulo. Já fiz alguns cursos na área de informática e, desde então, não parei mais de explorar esse universo da tecnologia.
+Gosto de aprender coisas novas, resolver problemas e criar soluções que realmente façam diferença.
+Aqui no GitHub você vai acompanhar minha trajetória como desenvolvedor. Estou começando a compartilhar meus estudos, projetos e aprendizados, e pretendo usar esse espaço para mostrar minha evolução na área de tecnologia.
 
 <p>
     <a href="https://github.com/samueleliasdev?tab=repositories&sort=stargazers">
