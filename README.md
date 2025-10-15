@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Samuel Elias
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Samuel Elias. Sou um estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, tenho 21 anos e sou de São Paulo. Já fiz alguns cursos na área de informática e, desde então, não parei mais de explorar esse universo da tecnologia.
 Gosto de aprender coisas novas, resolver problemas e criar soluções que realmente façam diferença.
